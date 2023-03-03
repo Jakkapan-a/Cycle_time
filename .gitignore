@@ -1,0 +1,16 @@
+# Excel 
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+*.xltm
+*.xltx
+*.xlam
+
+# Word
+*.doc
+
+# PDF
+*.pdf
+.vscode
+
